@@ -78,8 +78,8 @@
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="email" height="50" width="50" />
+  <a href="https://discord.com/users/anga_as" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" />
   </a>
   <!-- Discord: use handle (link requires numeric user ID) -->
  
