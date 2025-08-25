@@ -16,7 +16,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Electrical Engineering · Data/AI · QA Automation</h2></summary>
+    <summary><h2 style="display: inline-block">Electrical Engineering </h2></summary>
   </ul>
 </div>
 
@@ -24,9 +24,9 @@
 - 🎓 B.S. in Electrical Engineering  — finishing on **September , 2025**.
 - 🤖 Project: **Thermographic inspection robot for power transformers** (Raspberry Pi 4 + MLX90640 + OpenCV/TensorFlow + LoRa) with automated reports and heuristic/ML analysis.
 - ⚡ Experience: **Substation maintenance** (TTR, insulation resistance, contact resistance, power factor/capacitance), safety & procedures.
-- 🌱 Currently learning **QA Automation with Python** (unittest/pytest, Git, basic SQL) and **MLOps basics** (FastAPI + Docker).
+- 🌱 Currently learning **QA Automation with Python** (unittest/pytest, SQL) and **MLOps** (FastAPI + Docker).
 - :grey_exclamation: Interests: AI for energy systems, predictive maintenance, SCADA/OT security, and industrial automation.
-- 💬 Ask me about **Python, OpenCV, basic TensorFlow, IR thermography, transformers, electrical testing, basic SQL, QA automation**.
+- 💬 Ask me about **Python, OpenCV, basic TensorFlow, IR thermography, transformers, electrical testing,  SQL, QA automation**.
 
 - 💬 **Ask me on Discord:** **@anga_as**
 <!--Intro end-->
